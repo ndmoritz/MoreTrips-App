@@ -1,25 +1,25 @@
-# maiholidays
+# MoreTrips
 
 **Deine smarte Reiseplanung für unterwegs**
 
-maiholidays ist eine mit Flutter entwickelte App, mit der Reisen übersichtlich geplant und organisiert werden können.
+MoreTrips ist eine mit Flutter entwickelte App, mit der Reisen übersichtlich geplant und organisiert werden können.
 
 > Dieses Repository dient ausschließlich zur Vorstellung der App.
-> Der Quellcode von maiholidays ist nicht öffentlich zugänglich.
+> Der Quellcode von MoreTrips ist nicht öffentlich zugänglich.
 
 ---
 
 ## Einblick in die App
 
 <p align="center">
-  <img src="./images/maiholidays.png" alt="maiholidays-App als Übersicht" >
+  <img src="./images/maiholidays.png" alt="MoreTrips-App als Übersicht" >
 </p>
 
 ---
 
-## Über maiholidays
+## Über MoreTrips
 
-Mit maiholidays behältst Du jederzeit den Überblick über Deine Reisen. Die App unterstützt Dich bei der Planung von Urlauben, Wochenendtrips und Geschäftsreisen und führt alle wichtigen Reiseinformationen an einem Ort zusammen.
+Mit MoreTrips behältst Du jederzeit den Überblick über Deine Reisen. Die App unterstützt Dich bei der Planung von Urlauben, Wochenendtrips und Geschäftsreisen und führt alle wichtigen Reiseinformationen an einem Ort zusammen.
 
 Die Benutzeroberfläche wurde mit dem Ziel entwickelt, eine einfache, intuitive und übersichtliche Reiseplanung zu ermöglichen. Persönliche Reiseinhalte sind privat und ausschließlich für den jeweiligen Nutzer sichtbar.
 
@@ -51,7 +51,7 @@ Lade eigene Fotos hoch und halte besondere Erinnerungen Deiner Reisen direkt in 
 
 ## Technischer Hintergrund
 
-maiholidays wurde als eigenständiges Softwareprojekt konzipiert, gestaltet und entwickelt.
+MoreTrips wurde als eigenständiges Softwareprojekt konzipiert, gestaltet und entwickelt.
 
 Für die Umsetzung wurden unter anderem folgende Technologien eingesetzt:
 
@@ -65,17 +65,17 @@ Für die Umsetzung wurden unter anderem folgende Technologien eingesetzt:
 
 ## Projektstatus
 
-maiholidays wird kontinuierlich weiterentwickelt. Neue Funktionen sowie Verbesserungen an der Benutzeroberfläche und der technischen Umsetzung werden schrittweise ergänzt.
+MoreTrips wird kontinuierlich weiterentwickelt. Neue Funktionen sowie Verbesserungen an der Benutzeroberfläche und der technischen Umsetzung werden schrittweise ergänzt.
 
 ---
 
 ## App herunterladen
 
-maiholidays ist für Android im Google Play Store verfügbar:
+MoreTrips ist für Android im Google Play Store verfügbar:
 
 [![Jetzt bei Google Play herunterladen](https://play.google.com/intl/en_us/badges/static/images/badges/de_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.moritzmaienschein.maiholidays)
 
-[maiholidays im Google Play Store öffnen](https://play.google.com/store/apps/details?id=com.moritzmaienschein.maiholidays)
+[MoreTrips im Google Play Store öffnen](https://play.google.com/store/apps/details?id=com.moritzmaienschein.maiholidays)
 
 ---
 
